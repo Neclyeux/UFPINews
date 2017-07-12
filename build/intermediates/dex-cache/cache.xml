@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7310154bbc9cb6531c83b24a4096cde8d0da0cd7">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_454b9af9391568423a28f0d7e5d71141f2996d8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\8352535ee13fcf13c92628c687e7874af2b414a0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b7c746865da8e7067c288f8fdbdd10872a925af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\a298a68565b88add4f030343be618d2235fcbb82\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_37e65267c9ae3867dd102b970e867c136d700c47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\039e768a7ad10702fc99d20bcdae5ecffefae589\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dae69866ffa89326f111b438ff7d49711e2aebef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\039e768a7ad10702fc99d20bcdae5ecffefae589\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c20204750ba11ed754650c9b5242bbd0a7f37937\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\3d8fbeff598c34894a4b6f34c827597116aaca98\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4ffb667a6298f64199b311a90bdf948e48da69ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\f99ebbff57d5335bb6f4bcf6c7db6a8d7ae6c8c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf3d11041b1151de80d3116cb338901a25ab24e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\a298a68565b88add4f030343be618d2235fcbb82\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e834cb3560aaac365291d11791836ed37d3c5894\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\1a0b0b01e56d50ceb1a0ac7342d9ba053f67c017\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9949d3d6fbf954e1f7e5c293bbc5e3571443b998\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\62cd9f89d11b7c2d65b0576fea24997b5eb6c2f5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d63c197d952b582997320e4524f401fc89e5871a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\00728cd3e93bdaeddaa99e42eb3230eda45e49f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5072a1e910eff1acdbb5e9f351292dfd839235c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\1d7eef7ee6965f498a92b087e88f40109c38f94f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f4b6aacc976fef03d22b21f982aba56e22eec806\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\f99ebbff57d5335bb6f4bcf6c7db6a8d7ae6c8c8\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_90a166e56c6143d7bcbca667df3c28526fbc6464\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_e7913a9edd02b97f0b9a487bb0b9fc3a8def70d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\6c11ad8d13cb302f4ca949ad051a14dfb3728c8b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a963ac22134cb1f3d792d965410c587326b9f19f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\25fe598e40f34466f267b4c5da0064ee46fb1cf3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f85db5be35c4a2444270ef2b2507686f3c74209\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\3d8fbeff598c34894a4b6f34c827597116aaca98\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_f196116416d8ab627e1582881d6481a154be398f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_64604245657e07dc120843a08d3d28427cca9d81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\62cd9f89d11b7c2d65b0576fea24997b5eb6c2f5\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_04ae3906d636329d07ec89dbe4a5db31fc973d8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neclyeux\.android\build-cache\fd83f746e2d81629ce805f99c4545026a87fc3d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Neclyeux\AndroidStudioProjects\UFPINews2\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6b003a2aeb4239938370ba226c18296221b302e\classes.dex" />
+    </item>
+
+</items>
